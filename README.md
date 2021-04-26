@@ -19,7 +19,6 @@ Windows服务的操作用到了github.com/shirou/gopsutil/winservices包，并�
 
 # 编译
 
-build.bat
 直接运行build.bat即可编译成exe可执行文件，可以单个exe文件部署，比较方便。
 为了使生成的exe文件大小小一些，采用了32位的编译，在32位或64位系统中都可以运行。
 还可以用upx再进一步压缩生成的exe文件大小，最终文件大小不到2M。
