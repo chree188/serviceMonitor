@@ -7,7 +7,7 @@ golang开发windows服务管理桌面程序(lxn/walk)
 运行环境：windows server 2012
 
 # 运行界面：
-![](https://img-blog.csdnimg.cn/20200530181134581.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R3dA==,size_16,color_FFFFFF,t_70)
+![](运行界面.png)
 
 
 代码很简单，定义了三个全局变量，对应三个服务，自行修改为自己项目中用到的服务信息
